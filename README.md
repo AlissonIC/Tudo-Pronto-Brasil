@@ -3,4 +3,4 @@ Kit de desenvolvimento brasileiro com mascaras, selects e tudo mais ja pronto pa
 
 
 # Estados 
-Confira todos os estados do Brazil listados por select clicando [a relative link](Selects.md) aqui.
+Confira todos os estados do Brazil listados por select clicando [aqui](Selects.md).
