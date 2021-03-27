@@ -1,5 +1,6 @@
-<h2>Completo</h2>
+Completo
 ```html
+
 <select name="estado1">
 	<option value="AC">Acre</option>
 	<option value="AL">Alagoas</option>
@@ -29,10 +30,12 @@
 	<option value="SE">Sergipe</option>
 	<option value="TO">Tocantins</option>
 </select>
+
 ```
 
-<h2>Abreviado</h2>
+Abreviado
 ```html
+
 <select name="estado2">
 	<option value="AC">AC</option>
 	<option value="AL">AL</option>
@@ -62,4 +65,5 @@
 	<option value="SE">SE</option>
 	<option value="TO">TO</option>
 </select>
+
 ```
