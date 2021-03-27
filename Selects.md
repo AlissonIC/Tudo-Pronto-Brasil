@@ -1,4 +1,6 @@
-Completo
+Descrição: <select> com todos os estados do Brazil atualizados.
+
+Completo:
 ```html
 
 <select name="estado1">
@@ -33,7 +35,7 @@ Completo
 
 ```
 
-Abreviado
+Abreviado:
 ```html
 
 <select name="estado2">
