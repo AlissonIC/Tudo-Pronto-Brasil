@@ -1,4 +1,4 @@
-Descrição: <select> com todos os estados do Brazil atualizados.
+Descrição: select com todos os estados do Brazil atualizados.
 
 Completo:
 ```html
