@@ -3,13 +3,13 @@ Kit de desenvolvimento brasileiro com mascaras, selects e tudo mais ja pronto pa
 
 
 # Estados [ SELECT ]
-Confira todos os estados do Brazil listados por select clicando [aqui](Selects.md).
+Confira todos os estados do Brazil listados por select clicando [aqui](views/Selects.md).
 
 <img src="assets/selects_001.png">
 
 
 
 # Buscar endereço por CEP
-Confira todos os detalhes clicando [aqui](Cep.md).
+Confira todos os detalhes clicando [aqui](views/Cep.md).
 
 <img src="assets/cep_001.png">
